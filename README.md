@@ -4,4 +4,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sunrekay?theme=light&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sunrekay?theme=light&font=PT%20Sans%20Caption&ext=heatmap)
